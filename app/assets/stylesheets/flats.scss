@@ -1,0 +1,34 @@
+// Place all the styles related to the flats controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+// <h1>Flats</h1>
+
+// <div class="container">
+//   <div class="row">
+//     <% @flats.each do |flat| %>
+//       <div class="col-xs-12 col-sm-4">
+//         <div class="card">
+//           <div class="card-image" style="background-image: url('https://images.unsplash.com/photo-1494526585095-c41746248156?w=1200')"></div>
+//           <div class="card-infos">
+//             <h2 class="card-name"><%= flat.name.capitalize %></h2>
+//             <p class="card-desc"><%= flat.description %></p>
+//             <p class="card-persons"><%= flat.price_per_night %></p>
+//             <p class="card-price"><%= flat.number_of_guests %></p>
+//           </div>
+//           <div class="card-actions">
+//             <ul class="actions list-inline">
+//               <li><%= link_to "More info" %></li>
+//               <li><%= link_to "Edit" %></li>
+//               <li><%= link_to "Remove" %></li>
+//             </ul>
+//           </div>
+//         </div>
+
+//       </div>
+//     <% end %>
+//   </div>
+// </div>
+
+
